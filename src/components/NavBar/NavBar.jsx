@@ -16,6 +16,7 @@ function NavBar() {
             </div>
             <div>
                 <CartWidget />
+                <p>5</p>
             </div>
         </div>    
     </nav>
